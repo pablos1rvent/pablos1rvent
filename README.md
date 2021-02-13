@@ -5,7 +5,7 @@
 ### Links
 
 <p>
-<a href="https://www.linkedin.com/in/pablosirvent/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pablosirvent" height="20">
-<a href="https://psir.es/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD%20CV%20%20ESP-0077B5?style=for-the-badge&logoColor=white" alt="pablosirvent" height="20">
-<a href="https://psir.es/cv_en.pdf" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD%20CV%20%20EN-0077B5?style=for-the-badge&logoColor=white" alt="pablosirvent" height="20">
+<a href="https://www.linkedin.com/in/pablosirvent/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pablosirvent" height="30">
+<a href="https://psir.es/cv.pdf" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD%20CV%20%20ESP-689F38?style=for-the-badge&logoColor=white" alt="pablosirvent" height="30">
+<a href="https://psir.es/cv_en.pdf" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD%20CV%20%20EN-0077B5?style=for-the-badge&logoColor=white" alt="pablosirvent" height="30">
 </p>
