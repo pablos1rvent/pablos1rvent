@@ -3,9 +3,7 @@
 </p>
 
 ### About me
-<p>This is a testing branch!</p>
-
-### Links
+<p>I'm Pablo 👋</p>
 
 <p>
 <a href="https://www.linkedin.com/in/pablosirvent/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pablosirvent" height="30">
